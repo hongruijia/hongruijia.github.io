@@ -23,7 +23,7 @@ Hello 👋, I'm Hongrui Jia (贾泓睿). I'm a second-year Master's student at P
 - *2024.09 - 2027.06*, MS, Software Engineering, Peking University.
 - *2020.09 - 2024.06*, BS, Software Engineering, South China University of Technology. 
 
-# 📚 Research Interests
+# 🔬 Research Interests
 My research focuses on advancing trustworthy and capable Multimodal Large Language Models (MLLMs) through rigorous evaluation, targeted alignment, and diagnostic-driven training paradigms, with a commitment to building reliable, open-source multimodal intelligence systems.
 
 This work follows a progressive research pipeline: systematically identifying critical failure modes in MLLM reasoning, comprehensively exploring the boundaries of multimodal reasoning capabilities.
