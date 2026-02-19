@@ -17,42 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello 👋, I'm Hongrui Jia (贾泓睿). I'm a second-year Master's student at Peking University, advised by Prof. Shikun Zhang and Prof. Wei Ye. My primary research interests lie in Multimodal Large Language Models (MLLMs) and MLLM-based agents. I have published several papers at top-tier international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=-esmnK0AAAAJ'>google scholar citations <strong><span id='total_cit'>179</span></strong></a>. If you're interested in collaboration, feel free to reach out to me at jiahongrui@stu.pku.edu.cn.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 📚 Educations
+- *2024.09 - 2027.06*, MS, Software Engineering, Peking University.
+- *2019.09 - 2023.06*, BS, Software Engineering, South China University of Technology. 
 
+# 📚 Research Interests
+My research focuses on advancing trustworthy and capable Multimodal Large Language Models (MLLMs) through rigorous evaluation, targeted alignment, and diagnostic-driven training paradigms, with a commitment to building reliable, open-source multimodal intelligence systems.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+This work follows a progressive research pipeline: systematically identifying critical failure modes in MLLM reasoning, comprehensively exploring the boundaries of multimodal reasoning capabilities.
+
+**Systematic Evaluation of Critical Weaknesses in Reasoning.** The reliability of MLLM reasoning is constrained by fundamental bottlenecks: cognitive drift induced by hallucinations and structural deficiencies in tool-calling capabilities. Hallucinations not only introduce factual errors but also trigger cascading deviations throughout reasoning chains; insufficient tool invocation abilities fundamentally limit models' capacity for deep interaction with external knowledge sources and execution environments. How can we construct fine-grained evaluation frameworks to quantify these latent deficiencies? How might we establish comprehensive benchmarks covering visual consistency, tool coordination, and decision reliability?
+
+Related Works: Hal-Eval (ACM MM 2024), OSWorld-MCP (ICLR 2026).
+
+**Precision Enhancement and Dynamic Evolution of Reasoning Capabilities.** How can we compel models to genuinely "see" rather than merely "read" visual evidence during complex reasoning? How do we transcend the limitations of single-image understanding to achieve information integration and relational reasoning across multiple images? Within extended reasoning chains, what mechanisms can anchor visual grounding to prevent logical drift? Most critically, how can we translate diagnostic insights into real-time adjustments of data generation and training strategies, enabling continuous, targeted capability evolution?
+
+Related Works: SymDPO (CVPR 2025), MaVEn (NeurIPS 2024), Decoupled Reasoning and Perception (Preprint), DPE (Preprint).
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/osworld-mcp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[OSWORLD-MCP: BENCHMARKING MCP TOOL INVOCATION IN COMPUTER-USE AGENTS](https://arxiv.org/pdf/2510.24563)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Hongrui Jia**, Jitong Liao, Xi Zhang, Haiyang Xu, Tianbao Xie, Chaoya Jiang, Ming Yan, Si Liu, Wei Ye, Fei Huang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://osworld-mcp.github.io/) 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* National Scholarship. 
+- *2021.10* National Scholarship. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- #  💻 Internships
+- *2025.06 - 2025.12*, Alibaba, Tongyi Group, Beijing.
+- *2026.01 - Now*, JINGDONG, Hangzhou. -->
