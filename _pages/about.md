@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello 👋, I'm Hongrui Jia (贾泓睿). I'm a second-year Master's student at Peking University, advised by Prof. Shikun Zhang and Prof. Wei Ye. My primary research interests lie in Multimodal Large Language Models (MLLMs) and MLLM-based agents. I have published several papers at top-tier international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=-esmnK0AAAAJ'>google scholar citations <strong><span id='total_cit'>179</span></strong></a>. If you're interested in collaboration, feel free to reach out to me at jiahongrui@stu.pku.edu.cn.
+Hello 👋, I'm Hongrui Jia (贾泓睿). I'm a second-year Master's student at Peking University, advised by Prof. Shikun Zhang and Prof. Wei Ye. My primary research interests lie in Multimodal Large Language Models (MLLMs) and MLLM-based agents. I have published several papers at top-tier international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=-esmnK0AAAAJ'>google scholar citations 179. If you're interested in collaboration, feel free to reach out to me at jiahongrui@stu.pku.edu.cn.
 
 # 📚 Educations
 - *2024.09 - 2027.06*, MS, Software Engineering, Peking University.
-- *2019.09 - 2023.06*, BS, Software Engineering, South China University of Technology. 
+- *2020.09 - 2024.06*, BS, Software Engineering, South China University of Technology. 
 
 # 📚 Research Interests
 My research focuses on advancing trustworthy and capable Multimodal Large Language Models (MLLMs) through rigorous evaluation, targeted alignment, and diagnostic-driven training paradigms, with a commitment to building reliable, open-source multimodal intelligence systems.
