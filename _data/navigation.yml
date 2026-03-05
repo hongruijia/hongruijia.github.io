@@ -15,5 +15,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
+  - title: "CV"
+    url: "/Hongrui_Jia_s_CV.pdf"
+
+  - title: "Transcript"
+    url: "/transcript.pdf"
+
   # - title: "Internships"
   #   url: "/#-internships"
