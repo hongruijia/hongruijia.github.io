@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello 👋, I'm Hongrui Jia (贾泓睿). I'm a second-year Master's student at Peking University, advised by Prof. Shikun Zhang and Prof. Wei Ye. My primary research interests lie in building reliable multimodal reasoning systems. I have published several papers at top-tier international AI conferences and journals with total   <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google scholar citations"></a>). If you're interested in collaboration, feel free to reach out to me at jiahongrui@stu.pku.edu.cn.
+Hello 👋, I'm Hongrui Jia (贾泓睿). I'm a second-year Master's student at Peking University, advised by Prof. Shikun Zhang and Prof. Wei Ye. My primary research interests lie in building reliable multimodal reasoning systems. I have published several papers at top-tier international AI conferences and journals with total   <a href='https://scholar.google.com/citations?user=-esmnK0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google scholar citations"></a>). If you're interested in collaboration, feel free to reach out to me at jiahongrui@stu.pku.edu.cn.
 
 # 📚 Educations
 - *2024.09 - 2027.06*, MS, Software Engineering, Peking University.
