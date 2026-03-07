@@ -62,6 +62,18 @@ Related Works: SymDPO (CVPR 2025), MaVEn (NeurIPS 2024), Decoupled Reasoning and
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/DPE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](https://arxiv.org/pdf/2602.22859)
+
+**Hongrui Jia**, Chaoya Jiang, Shikun Zhang, Wei Ye
+
+[**Code**](https://github.com/hongruijia/DPE) 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/osworld-mcp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,6 +85,56 @@ Related Works: SymDPO (CVPR 2025), MaVEn (NeurIPS 2024), Decoupled Reasoning and
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Decouple.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Decoupling Reasoning and Perception: An LLM-LMM Framework for Faithful Visual Reasoning](https://arxiv.org/pdf/2509.23322)
+
+**Hongrui Jia**, Chaoya Jiang, Shikun Zhang, Wei Ye
+
+<!-- [**Project**](https://osworld-mcp.github.io/)  -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/symdpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization](https://openaccess.thecvf.com/content/CVPR2025/papers/Jia_SymDPO_Boosting_In-Context_Learning_of_Large_Multimodal_Models_with_Symbol_CVPR_2025_paper.pdf)
+
+**Hongrui Jia**, Chaoya Jiang, Haiyang Xu, Wei Ye, Mengfan Dong, Ming Yan, Ji Zhang, Fei Huang, Shikun Zhang
+
+[**Code**](https://github.com/hongruijia/SymDPO) 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/maven.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MaVEn: An Effective Multi-Granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model](https://proceedings.neurips.cc/paper_files/paper/2024/file/b8f21f324ff277ba26aed2e944b7576b-Paper-Conference.pdf)
+
+Chaoya Jiang*, **Hongrui Jia*** (*Equal Contribution), Haiyang Xu, Wei Ye, Mengfan Dong, Ming Yan, Ji Zhang, Fei Huang, Shikun Zhang
+
+[**Code**](https://github.com/chaoyajiang/MaVEn) 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024, **Oral**</div><img src='images/hal-eval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hal-eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models](https://arxiv.org/pdf/2402.15721)
+
+Chaoya Jiang*, **Hongrui Jia*** (*Equal Contribution), Mengfan Dong, Wei Ye, Haiyang Xu, Ming Yan, Ji Zhang, Shikun Zhang
+
+<!-- [**Code**](https://github.com/chaoyajiang/MaVEn)  -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
