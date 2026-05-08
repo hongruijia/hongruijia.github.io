@@ -62,7 +62,7 @@ Related Works: SymDPO (CVPR 2025), MaVEn (NeurIPS 2024), Decoupled Reasoning and
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/DPE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/DPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models](https://arxiv.org/pdf/2602.22859)
@@ -86,14 +86,14 @@ Related Works: SymDPO (CVPR 2025), MaVEn (NeurIPS 2024), Decoupled Reasoning and
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Decouple.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026, Findings track</div><img src='images/Decouple.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Decoupling Reasoning and Perception: An LLM-LMM Framework for Faithful Visual Reasoning](https://arxiv.org/pdf/2509.23322)
+[Mitigating Visual Context Degradation in Large Multimodal Models: A Training-Free Decoupled Agentic Framework](https://arxiv.org/pdf/2509.23322)
 
 **Hongrui Jia**, Chaoya Jiang, Shikun Zhang, Wei Ye
 
-<!-- [**Project**](https://osworld-mcp.github.io/)  -->
+[**Code**](https://github.com/hongruijia/DRP) 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
@@ -122,7 +122,7 @@ Chaoya Jiang*, **Hongrui Jia*** (*Equal Contribution), Haiyang Xu, Wei Ye, Mengf
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024, **Oral**</div><img src='images/hal-eval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024, <b>Oral</b></div><img src='images/hal-eval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hal-eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models](https://arxiv.org/pdf/2402.15721)
